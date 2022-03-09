@@ -147,7 +147,7 @@ impl epi::App for Application {
                             },
                         }, 
                         0.0, 
-                        Color32::DARK_GREEN, 
+                        Color32::DARK_BLUE, 
                         Stroke{
                             width: 12.0, 
                             color: Color32::from_rgb(128, 128, 128)
